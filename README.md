@@ -22,11 +22,11 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yulken&show_icons=true&locale=en&layout=compact&theme=dracula" alt="yulken" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yulken&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="yulken" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yulken&show_icons=true&locale=en&theme=dracula" alt="yulken" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yulken&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="yulken" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yulken&theme=dracula" alt="yulken" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yulken&theme=dracula&layout=compact&hide_border=true&custom_title=Wakatime+Stats+(Last+7+Days)" alt="yulken" />
 </p>
