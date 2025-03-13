@@ -27,6 +27,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yulken&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="yulken" />
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yulken&theme=dracula&layout=compact&hide_border=true&custom_title=Wakatime+Stats+(Last+7+Days)" alt="yulken" />
-</p>
